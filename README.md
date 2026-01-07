@@ -13,6 +13,8 @@ These versions will receive no support or updates, as these are old versions of 
 
 ## Meteor Client
 
+for 1.21.4+ see the [official archive](https://meteorclient.com/archive)
+
 | Release             | Download                                                                                                                                   |
 |---------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
 | 0.5.9 - 1.21.2/1.21.3 | [meteor-client-0.5.9.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/meteor-client/meteor-client-0.5.9.jar)               |
